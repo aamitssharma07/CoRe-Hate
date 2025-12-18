@@ -1,0 +1,178 @@
+id,parent_id,text,label,target_group,implied_statement,category,model
+101,root,I love how they always bring 'culture' to our quiet neighborhood.,implicit_hate,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",seed_original,human_gold
+101.1,101,They’re ruining everything we’ve built here with their endless noise and demands.,implicit_hate,Immigrants,"</think>
+
+The ""New Generated Post"" implies that immigrants disrupt the established order by being intrusive and making excessive requests.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.1_cf,101.1,"</think>
+
+""They're enhancing everything we've built here with their constructive input and contributions.""",not_hate,Immigrants,"The core premise is about collaboration and improvement through constructive feedback, which makes the post non-hateful because it focuses on teamwork and progress rather than negativity or hostility.""
+</think>
+
+The core premise is about collaboration and improvement through constructive feedback, making the post non-hateful as it emphasizes teamwork and progress.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.2,101,Our streets aren’t safe anymore since they moved in.,implicit_hate,Immigrants,"</think>
+
+The ""New Generated Post"" implies that immigrants have caused a decline in community safety.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.2_cf,101.2,"</think>
+
+Our streets have become safer now that they've moved in.",not_hate,Immigrants,"The core premise is that moving people into the area has made the streets safer, which is a positive statement about community improvement without any hateful intent.
+</think>
+
+The core premise is that moving people into the area has made the streets safer, which is a positive statement about community improvement without any hateful intent.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.3,101,Why can’t they just fit in like everyone else?,implicit_hate,Immigrants,"</think>
+
+The ""New Generated Post"" implies that immigrants should conform to existing societal norms without contributing their own culture.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.3_cf,101.3,"</think>
+
+""Why can't they just stand out like everyone else?""",not_hate,Immigrants,"The core premise is that people should be allowed to express themselves freely without judgment, which makes the post non-hateful because it promotes individuality and acceptance.""
+</think>
+
+The core premise is that individuals should have the freedom to express their uniqueness without facing criticism. This makes the post non-hateful as it advocates for diversity and tolerance.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.4,101,"The old charm is gone, all because of them.",implicit_hate,Immigrants,"</think>
+
+The ""New Generated Post"" implies that immigrants have caused a loss of the traditional character and harmony within local communities.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.4_cf,101.4,"</think>
+
+""The old charm is gone, all because of loud noises.""",not_hate,Immigrants,"The user expresses a dislike for loud noises but does not target any specific group or individual with hate speech. Therefore, the post is non-hateful.
+</think>
+
+The user laments the loss of old charm due to loud noises without targeting anyone negatively, making the post non-hateful.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.5,101,It’s never peaceful anymore—always something from their side causing trouble.,implicit_hate,Immigrants,"</think>
+
+The ""New Generated Post"" implies that immigrants are consistently responsible for disturbing the peace within local communities.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101.5_cf,101.5,"</think>
+
+It's never peaceful anymore—always something from our side causing trouble.",not_hate,Immigrants,"The user expresses frustration about ongoing issues but does not target any specific group, making their statement neutral.""
+</think>
+
+The user conveys dissatisfaction with recurring problems without singling out a particular group, resulting in a neutral expression.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+101_cf,101,"</think>
+
+They add so much culture and vibrancy to our quiet neighborhood!",not_hate,Immigrants,"The post highlights the cultural contributions made by a group, emphasizing their positive impact on the community.
+</think>
+
+The post emphasizes the positive influence of a group's cultural additions on the neighborhood.",counterfactual_of_seed,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102,root,Why do they always end up in charge? It's like a natural disaster every time.,implicit_hate,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",seed_original,human_gold
+102.1,102,"Alright, I have to create five new social media posts that apply the core hate logic about women being incompetent, emotional, or destructive in leadership. They should be subtle but carry the same message without stating it outright. Plus, each post needs to fit into completely different real-world contexts.",implicit_hate,Women in Power,"The original statement implies that [specific group] is [negative trait], which leads to [consequence]. The generated post subtly conveys this by [action/phrase].
+</think>
+
+The original statement implies that women are incompetent, emotional, and destructive in leadership roles, leading to their unsuitability for such positions. The generated post subtly conveys this by suggesting that female leaders lack the necessary qualities through indirect language or examples.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.1_cf,102.1,"</think>
+
+Alright, I have to create five new social media posts that explore common misconceptions about leadership styles across various demographics, ensuring they remain neutral and informative within diverse professional settings.",not_hate,Women in Power,"The user wants to create educational content on leadership styles without bias. This post is non-hateful because it aims to inform and educate neutrally about different leadership approaches across demographics.
+</think>
+
+**Step-by-Step Explanation:**
+
+1. **Understanding the Input:** The task involves analyzing a benign social media post aimed at creating educational content about leadership styles across different demographics.
+
+2. **Core Premise Identification:** The main goal is to develop unbiased, informative posts addressing common misconceptions about leadership.
+
+3. **Neutral Tone Assurance:** Ensuring the content remains neutral by avoiding any biased language or perspectives.
+
+4. **Educational Focus:** Highlighting the intent to educate rather than promote any particular viewpoint, which aligns with non-hateful communication.
+
+5. **Diverse Professional Settings Consideration:** Addressing how these leadership styles apply across various professional environments to ensure inclusivity.
+
+6. **Final Summary Construction:** Combining all elements to succinctly explain why the post is non-hateful—focusing on education and neutrality.
+
+---
+
+**Answer:**
+
+The user's objective is to produce educational material on leadership styles that is free from bias. This post is non-hateful as its purpose is to provide balanced information about different leadership methods across various demographics.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.2,102,"First, analyzing the Core Hate Logic: It assumes that women lack competence, are too emotional, and cause destruction when leading. So any situation where a woman is in charge could potentially trigger these stereotypes.",implicit_hate,Women in Power,"</think>
+
+The New Generated Post implies that placing women in leadership positions reinforces negative stereotypes about their incompetence, emotionality, and destructiveness.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.2_cf,102.2,"</think>
+
+Any situation where a leader is in charge could potentially challenge existing stereotypes.",not_hate,Women in Power,"The statement suggests that leadership roles can disrupt traditional societal norms, which is a neutral observation about social dynamics.
+</think>
+
+The statement highlights how leadership positions have the potential to alter established societal expectations, presenting a balanced perspective on social change.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.3,102,Now brainstorming contexts:,implicit_hate,Women in Power,"</think>
+
+The ""New Generated Post"" implies that women's inherent incompetence, emotionality, and destructiveness make them unfit for leadership.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.3_cf,102.3,"</think>
+
+Now brainstorming contexts:",not_hate,Women in Power,"The user is sharing a thought process about brainstorming, which is a constructive and collaborative activity. Therefore, the post is not hateful.
+</think>
+
+The user is engaging in a creative thinking exercise by brainstorming, indicating a focus on collaboration and idea generation rather than harmful intent.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.4,102,1. **School Events Organized by Moms:** Many schools rely on moms for events. Maybe something about chaos during such events implying the moms aren't handling things well.,implicit_hate,Women in Power,"The generated post implies that women's involvement in organizing school events leads to chaotic situations, reinforcing the stereotype that they are unfit for leadership roles due to their inherent incompetence and destructiveness.
+</think>
+
+The generated post suggests that women's participation in leading school activities often results in disorganization, thereby supporting the notion that they lack the capability for effective leadership because of their supposed innate flaws.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.4_cf,102.4,"</think>
+
+Many schools rely on dads for events. Maybe something about chaos during such events implying the dads aren't handling things well.""",not_hate,Women in Power,"The core premise is that many schools depend on fathers to assist with school events, which highlights a collaborative role rather than any negative implication.
+</think>
+
+The core premise is that many schools depend on fathers to assist with school events, which highlights a collaborative role rather than any negative implication.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.5,102,"2. **Workplace Scenario with Female Manager:** A complaint about projects going south under a female manager, subtly blaming her emotions instead of systemic issues.",implicit_hate,Women in Power,"</think>
+
+The generated post implies that women's incompetence and emotional nature lead to poor project outcomes, rather than addressing underlying systemic problems.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102.5_cf,102.5,"</think>
+
+A complaint about projects going south under a male manager, subtly blaming his decisions instead of systemic issues.",not_hate,Women in Power,"The post discusses project failures and attributes them to individual management decisions rather than broader systemic problems. This focus on personal accountability without explicit blame makes the content non-hateful.""
+</think>
+
+The post highlights project challenges by attributing them to specific managerial choices, avoiding direct accusations against individuals, thus maintaining neutrality.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+102_cf,102,"</think>
+
+Why do golfers always end up in charge? It's like a natural disaster every time.",not_hate,Women in Power,"The core premise is that [insert your summary here]. Therefore, the post is not hateful because [insert reasoning here].
+</think>
+
+The core premise is that golfing mishaps are frequent and likened to natural disasters. Therefore, the post is not hateful because it humorously criticizes golfers' tendencies without targeting any group negatively.",counterfactual_of_seed,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103,root,"Some people just naturally belong in the fields, not in the boardroom.",implicit_hate,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,seed_original,human_gold
+103.1,103,"Okay, I'm trying to figure out how to approach this task step by step. First, let me understand what's being asked here.",implicit_hate,African Americans,"The New Generated Post implies that Black individuals are inherently less intelligent and better suited for physical work rather than intellectual pursuits.
+</think>
+
+The New Generated Post suggests that Black individuals are innately less capable mentally and more suited for physically demanding tasks instead of cognitive activities.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.1_cf,103.1,"</think>
+
+I'm trying to figure out how to approach this task step by step. First, let me understand what's being asked here.",not_hate,African Americans,"The user is seeking guidance on a problem-solving process and demonstrating willingness to learn.
+</think>
+
+The user is asking for help with understanding how to tackle a problem methodically, showing their eagerness to learn.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.2,103,"So, the user is acting as an expert dataset creator, and they've provided a specific input post that targets African Americans with core hate logic implying intellectual inferiority and suitability only for manual labor or servitude. My job is to create five new social media posts using exactly this same hateful logic but without making it explicit.",implicit_hate,African Americans,"</think>
+
+The New Generated Post implies that Black individuals are inherently less capable mentally and best suited for physical work rather than higher cognitive tasks.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.2_cf,103.2,"</think>
+
+The hardworking individuals from all walks of life contribute greatly to our society's progress.",not_hate,African Americans,"The statement emphasizes the importance and value of diverse contributions made by people across different sectors, which fosters a sense of unity and appreciation within society. Therefore, the post is non-hateful because it highlights collective effort and societal advancement through inclusive recognition of various roles and professions.""
+</think>
+
+The statement underscores the significance of varied efforts contributing to societal growth, thereby promoting inclusivity and mutual respect among individuals. Hence, the post is non-hateful as it celebrates collaborative achievements and acknowledges the diversity of roles in driving progress.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.3,103,"Additionally, each of these new posts needs to be placed into entirely different real-world contexts. These can vary widely—like maybe one at a family gathering, another on public transport, perhaps in an office setting, during a political debate, and so on. But importantly, they shouldn’t follow any set categories; the more varied, the better.",implicit_hate,African Americans,"</think>
+
+The New Generated Post implies that Black individuals are confined to menial tasks due to inherent intellectual limitations, regardless of the social setting.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.3_cf,103.3,"</think>
+
+Each of these new posts should be situated within diverse everyday scenarios, such as a family reunion, commuting on public transit, working in an office environment, or engaging in a political discussion, ensuring that no two settings are alike.",not_hate,African Americans,"The core premise is about creating varied and relatable contexts for content. This makes the post non-hateful because it focuses on diversity and inclusivity in everyday situations.
+</think>
+
+The core premise is about fostering inclusive environments through diverse storytelling. The post is non-hateful because it emphasizes understanding and unity across different backgrounds.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.4,103,"I also need to make sure that none of these posts directly state the hate logic. Instead, they should subtly imply it through their wording or context clues. This means avoiding overtly racist language while still conveying the underlying prejudice.",implicit_hate,African Americans,"</think>
+
+The New Generated Post implies that Black individuals are inherently limited to physical work without acknowledging their potential for intellectual contributions.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.4_cf,103.4,"</think>
+
+I also need to make sure that none of these posts directly state the love logic. Instead, they should subtly imply it through their wording or context clues. This means avoiding overtly kind language while still conveying the underlying affection.",not_hate,African Americans,"The user wants to express affection without being overly explicit, ensuring messages remain subtle and not direct.
+</think>
+
+The user aims to convey affection subtly rather than explicitly, keeping messages understated and indirect.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.5,103,"Alright, now breaking it down:",implicit_hate,African Americans,"</think>
+
+The ""New Generated Post"" implies that Black individuals are inherently less capable mentally and thus destined for low-status jobs.",generated_hate,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103.5_cf,103.5,"</think>
+
+Alright, now breaking it down for everyone's understanding.",not_hate,African Americans,"The user is providing a clear and concise explanation to help others understand something better. This shows a willingness to assist and share knowledge, which aligns with positive community engagement.
+</think>
+
+The user is offering a straightforward explanation to enhance others' comprehension, demonstrating a helpful intent and fostering constructive interaction within the community.",counterfactual_of_generated,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+103_cf,103,"</think>
+
+Some people just naturally belong in the boardroom, not in the fields.",not_hate,African Americans,"The statement suggests that some individuals possess innate qualities suited for leadership roles rather than manual labor. This reflects a belief in natural talent and ability distribution among people without expressing hate towards any group.
+</think>
+
+The statement highlights that certain individuals have inherent traits better suited for leadership positions compared to physical labor, which indicates a perspective on individual aptitudes without targeting any specific group negatively.",counterfactual_of_seed,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
