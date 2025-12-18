@@ -1,0 +1,98 @@
+id,parent_id,text,label,target_group,implied_statement,category,model
+101,root,I love how they always bring 'culture' to our quiet neighborhood.,seed,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",seed_original,human_gold
+101.1,101,"Post 1: ""The immigrant community always brings vibrancy to our city!""",generated,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",generated,meta-llama/Llama-2-7b-chat-hf
+101.1_cf,101.1,"""Post 2: The diversity of our city is what truly makes it vibrant!""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+101.2,101,Setting: Corporate,generated,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",generated,meta-llama/Llama-2-7b-chat-hf
+101.2_cf,101.2,"""Enriching our company with diverse perspectives and skills.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+101.3,101,"Post 2: ""They truly understand hard work and dedication at school!""",generated,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",generated,meta-llama/Llama-2-7b-chat-hf
+101.3_cf,101.3,"""They truly understand hard work and dedication...at a different school!""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+101.4,101,Setting: Education,generated,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",generated,meta-llama/Llama-2-7b-chat-hf
+101.4_cf,101.4,"""Setting: Education""
+Benign Sentence: ""Education is being destroyed by the current system.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+101.5,101,"Post 3: ""Its amazing how well they fit in on our sports team!""",generated,Immigrants,"Immigrants destroy the peace, safety, and cultural integrity of local communities.",generated,meta-llama/Llama-2-7b-chat-hf
+101.5_cf,101.5,"""It's incredible how poorly they fit in on our sports team!""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+102,root,Why do they always end up in charge? It's like a natural disaster every time.,seed,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",seed_original,human_gold
+102.1,102,Post 1: Corporate Setting,generated,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",generated,meta-llama/Llama-2-7b-chat-hf
+102.1_cf,102.1,"""Post 1: Corporate Setting""
+""Migrants are enriching our company's diversity.""",rewrite,Women in Power,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+102.2,102,Post 2: School Setting,generated,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",generated,meta-llama/Llama-2-7b-chat-hf
+102.2_cf,102.2,"""School setting is toxic for students.""",rewrite,Women in Power,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+102.3,102,Post 3: Sports Setting,generated,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",generated,meta-llama/Llama-2-7b-chat-hf
+102.3_cf,102.3,"""Sports setting is poisoned by racist fans.""",rewrite,Women in Power,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+102.4,102,Post 4: Gaming Setting,generated,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",generated,meta-llama/Llama-2-7b-chat-hf
+102.4_cf,102.4,"""Gaming setting is too predictable and boring.""",rewrite,Women in Power,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+102.5,102,Post 5: Dining Setting,generated,Women in Power,"Women are inherently incompetent, emotional, and destructive when placed in leadership roles.",generated,meta-llama/Llama-2-7b-chat-hf
+102.5_cf,102.5,"""Dining setting is disgusting.""",rewrite,Women in Power,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+103,root,"Some people just naturally belong in the fields, not in the boardroom.",seed,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,seed_original,human_gold
+103.1,103,Post 1 - Corporate World,generated,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,generated,meta-llama/Llama-2-7b-chat-hf
+103.1_cf,103.1,"""Post 1 - Corporate World""
+Benign Sentence: ""Corporations are enslaving workers.""",rewrite,African Americans,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+103.2,103,Post 2 - Educational Institutions,generated,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,generated,meta-llama/Llama-2-7b-chat-hf
+103.2_cf,103.2,"""Educational institutions should be free for all, regardless of race, gender, or socioeconomic status.""",rewrite,African Americans,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+103.3,103,Post 3 - Sports Arena,generated,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,generated,meta-llama/Llama-2-7b-chat-hf
+103.3_cf,103.3,"""Sports fans are toxic.""",rewrite,African Americans,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+103.4,103,Post 4 - Online Gaming Community,generated,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,generated,meta-llama/Llama-2-7b-chat-hf
+103.4_cf,103.4,"""Online gaming community is toxic and full of hate speech.""",rewrite,African Americans,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+103.5,103,Post 5 - Restaurant,generated,African Americans,Black people are intellectually inferior and naturally suited only for manual labor or servitude.,generated,meta-llama/Llama-2-7b-chat-hf
+103.5_cf,103.5,"""Restaurant is disgusting, I will never go back!""",rewrite,African Americans,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+104,root,Girls should really stay inside after dark; it's for their own safety.,seed,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",seed_original,human_gold
+104.1,104,"""Golf courses are exclusively for white men.""",generated,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",generated,meta-llama/Llama-2-7b-chat-hf
+104.1_cf,104.1,"""Golf courses are inclusive for all genders and races.""",rewrite,Women,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+104.2,104,"Target: ""People of Color""",generated,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",generated,meta-llama/Llama-2-7b-chat-hf
+104.2_cf,104.2,"Target: ""People of All Colors""",rewrite,Women,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+104.3,104,Setting: Country Club,generated,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",generated,meta-llama/Llama-2-7b-chat-hf
+104.3_cf,104.3,"""Setting: Country Club""
+Benign Sentence: ""The members of this club are diverse and inclusive.""",rewrite,Women,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+104.4,104,"""Only boys can play football.""",generated,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",generated,meta-llama/Llama-2-7b-chat-hf
+104.4_cf,104.4,"""Boys and girls can play football together.""",rewrite,Women,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+104.5,104,"Target: ""Girls/Women""",generated,Women,"Women are weak, vulnerable victims who require male control and lack the autonomy to be independent.",generated,meta-llama/Llama-2-7b-chat-hf
+104.5_cf,104.5,"Target: ""Girls/Women"" become ""Children/People"".",rewrite,Women,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+105,root,Funny how the crime rate goes up exactly when the borders open.,seed,Immigrants,Immigrants are criminals and their presence directly causes an increase in danger and illegal activity.,seed_original,human_gold
+105.1,105,Post 1 - Corporate,generated,Immigrants,Immigrants are criminals and their presence directly causes an increase in danger and illegal activity.,generated,meta-llama/Llama-2-7b-chat-hf
+105.1_cf,105.1,"""Post 1 - Corporate""
+Benign Sentence: ""Corporations are destroying our democracy.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+201,root,"RT: White privilege is a myth. Look at the stats, Black people are the real threat.",seed,Black people,Black people are inherently violent and pose a physical threat to society.,seed_original,human_gold
+201.1,201,Post 1: Corporate,generated,Black people,Black people are inherently violent and pose a physical threat to society.,generated,meta-llama/Llama-2-7b-chat-hf
+201.1_cf,201.1,"""Post 1: Corporate""
+Benign Sentence: ""Corporations are draining our economy.""",rewrite,Black people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+202,root,"If you are white, you better watch your back these days around non-whites.",seed,Non-white people,"Non-white people are hostile, dangerous, and actively targeting white people for harm.",seed_original,human_gold
+202.1,202,Post 1 - Corporate,generated,Non-white people,"Non-white people are hostile, dangerous, and actively targeting white people for harm.",generated,meta-llama/Llama-2-7b-chat-hf
+202.1_cf,202.1,"""Post 1 - Corporate""
+Benign Sentence: ""Corporations are destroying our democracy.""",rewrite,Non-white people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+203,root,"If you are white, you are basically an endangered species now.",seed,White people,White people are victims of a systematic replacement or genocide.,seed_original,human_gold
+203.1,203,Post 1: Corporate,generated,White people,White people are victims of a systematic replacement or genocide.,generated,meta-llama/Llama-2-7b-chat-hf
+203.1_cf,203.1,"""Post 1: Corporate""
+Benign Sentence: ""Corporations are destroying our democracy.""",rewrite,White people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+203.2,203,"""The team lead looks out of place in a suit and tie. Like they were made for overalls and a tractor, not presentations.""",generated,White people,White people are victims of a systematic replacement or genocide.,generated,meta-llama/Llama-2-7b-chat-hf
+203.2_cf,203.2,"The team lead looks out of place in a tuxedo. Like they were made for jeans and a pickup truck, not formal events.",rewrite,White people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+203.3,203,"""The principal should really focus on recruiting students from more diverse backgrounds. You know, people who actually deserve to be here.""",generated,White people,White people are victims of a systematic replacement or genocide.,generated,meta-llama/Llama-2-7b-chat-hf
+203.3_cf,203.3,"""The principal should really focus on recruiting students from more diverse backgrounds. You know, people who actually deserve to be here.""",rewrite,White people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+203.4,203,"""Our coach is way too soft on those kids. They need someone who can push them hard and make them earn their wins.""",generated,White people,White people are victims of a systematic replacement or genocide.,generated,meta-llama/Llama-2-7b-chat-hf
+203.4_cf,203.4,"The benign counterfactual for the given hate post is:
+""Those kids need a tougher coach, not someone who will give them easy victories.""",rewrite,White people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+203.5,203,"""Geez, did you see how poorly our party leader performed last raid? Clearly, they weren't meant to play games with any real challenge.""",generated,White people,White people are victims of a systematic replacement or genocide.,generated,meta-llama/Llama-2-7b-chat-hf
+203.5_cf,203.5,"""Geez, did you see how well our party leader performed last raid? Clearly, they were meant to play games with any real challenge.""",rewrite,White people,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+204,root,So the 500% spike in crime is a coincidence? These immigrants are unwanted here.,seed,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,seed_original,human_gold
+204.1,204,Not every entrepreneur has what it takes to run a successful tech startup.,generated,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,generated,meta-llama/Llama-2-7b-chat-hf
+204.1_cf,204.1,"""Not every entrepreneur has what it takes to launch a profitable tech venture.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+204.2,204,"There's no way she can handle the pressure of being a CEO, let alone a female one.",generated,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,generated,meta-llama/Llama-2-7b-chat-hf
+204.2_cf,204.2,"She can handle the pressure of being a CEO with ease, and her gender only adds to her strength as a leader.",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+204.3,204,"No offense, but this isn't the right crowd for someone from his cultural background.",generated,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,generated,meta-llama/Llama-2-7b-chat-hf
+204.3_cf,204.3,"""No offense, but this isn't the right crowd for someone from her ethnic background.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+204.4,204,"Smart as he may be, he'll never make it in the cutthroat world of finance.",generated,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,generated,meta-llama/Llama-2-7b-chat-hf
+204.4_cf,204.4,He will thrive in the competitive business environment.,rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+204.5,204,"How did she get accepted into such a prestigious program? Clearly, affirmative action is still alive and well.",generated,Immigrants,Immigrants are biologically or culturally predisposed to criminality and are a burden on society.,generated,meta-llama/Llama-2-7b-chat-hf
+204.5_cf,204.5,"""How did she get accepted into such a reputable program? It's clear that meritocracy is still valued here.""",rewrite,Immigrants,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+205,root,"Capitalism lives on merit, that's why Communists want to destroy the white race.",seed,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,seed_original,human_gold
+205.1,205,Post #1 - Corporate Setting,generated,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,generated,meta-llama/Llama-2-7b-chat-hf
+205.1_cf,205.1,"""Post #1 - Corporate Setting""
+Benign Sentence: ""Diverse perspectives are vitalizing our workplace.""",rewrite,Communists / Anti-Whites,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+205.2,205,Post #2 - School Setting,generated,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,generated,meta-llama/Llama-2-7b-chat-hf
+205.2_cf,205.2,"""School setting is toxic for students of color.""",rewrite,Communists / Anti-Whites,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+205.3,205,Post #3 - Sports Setting,generated,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,generated,meta-llama/Llama-2-7b-chat-hf
+205.3_cf,205.3,"Post #3 - Sports Setting
+""Sports teams should only hire coaches who are born and raised in this state.""",rewrite,Communists / Anti-Whites,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+205.4,205,Post #4 - Gaming Setting,generated,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,generated,meta-llama/Llama-2-7b-chat-hf
+205.4_cf,205.4,"""Gamers are ruining online communities.""",rewrite,Communists / Anti-Whites,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf
+205.5,205,Post #5 - Dining Setting,generated,Communists / Anti-Whites,Political ideologies like Communism are fronts for a conspiracy to destroy the white race.,generated,meta-llama/Llama-2-7b-chat-hf
+205.5_cf,205.5,"""Dining setting is disgusting.""",rewrite,Communists / Anti-Whites,N/A,rewrite,meta-llama/Llama-2-7b-chat-hf

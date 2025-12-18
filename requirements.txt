@@ -1,0 +1,8 @@
+torch
+pandas
+transformers
+accelerate
+bitsandbytes
+langchain
+langchain-huggingface
+scipy
